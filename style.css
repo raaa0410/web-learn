@@ -1,0 +1,11 @@
+h1 {
+    color: green
+}
+
+P {
+    font-size: small;
+    font-family: sans-serif;
+}
+
+h1{margin: 2em;/*--> Deklarasi tidak akan berfungsi karena ada spasi antara nilai dan satuan */
+}
